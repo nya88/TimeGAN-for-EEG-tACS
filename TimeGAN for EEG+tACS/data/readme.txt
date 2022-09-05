@@ -1,0 +1,1 @@
+As EEG+tACS data from the surface of a real scalp is not easy to upload, EEG+tACS data from a gelatin skull (EEG_artifacted_clear) is used here as an example of synthetic data. Using synthetic sine waves as an example of artifact removal

@@ -1,0 +1,1 @@
+The original runtime environment was Google Colab, python 3.7, Tensorflow 2.8.2. To generate the data, switch the file to timegen_v2_gen. To remove artifacts, switch the file to timegen_v2.
